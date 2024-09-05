@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontaL_carousel_image_corner_radius">4dp</dimen>
+    <dimen name="banner_image_size">240dp</dimen>
+    <dimen name="horizontal_scroll_image_size">124dp</dimen>
+</resources>

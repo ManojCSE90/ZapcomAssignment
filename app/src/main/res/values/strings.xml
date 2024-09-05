@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZapcomAssignment</string>
+    <string name="api_key">api_key</string>
+    <string name="error_msg">Something went wrong.</string>
+    <string name="no_internet">No Internet\nTap to retry</string>
+    <string name="categories">Categories</string>
+</resources>
